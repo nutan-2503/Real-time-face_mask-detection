@@ -1,3 +1,6 @@
+
+
+//Do proper documentaion of each line of your code
 function str = makeValidFieldName(str)
 % From MATLAB doc: field names must begin with a letter, which may be
 % followed by any combination of letters, digits, and underscores.
